@@ -13,6 +13,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 # Register No: 25014364
 # Developed By: SATHISH H
 # 1-Norm of a Matrix
+'''
+```
 <img width="470" height="304" alt="image" src="https://github.com/user-attachments/assets/8ee0ce75-3989-45b3-beff-222af2a478df" />
 
 
@@ -31,7 +33,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 
 
 
-```
+
 ## Output:
 ### 1-Norm of a Matrix
 <br>
